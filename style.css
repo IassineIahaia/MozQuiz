@@ -17,7 +17,9 @@ body{
   margin: 0;
   color: #fff;
 }
-
+.quiz-container h3{
+  text-align: center;
+}
 .quiz-container{
   background-color: #006e67;
   border-radius: 10px;
